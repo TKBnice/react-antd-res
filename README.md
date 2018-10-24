@@ -16,4 +16,4 @@ npm start
 # 构建 build for production with minification
 npm build
 
-[图片]
+![image](https://github.com/TKBnice/react-antd-res/blob/master/TIM%E5%9B%BE%E7%89%8720181024164948.png?raw=true)
